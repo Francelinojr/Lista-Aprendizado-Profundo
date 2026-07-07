@@ -47,5 +47,3 @@ O projeto está organizado da seguinte forma:
 2.  Instale as dependências: `pip install torch torchvision scikit-learn pandas numpy matplotlib seaborn`
 3.  O código principal pode ser executado via script (`src/main_script.py`) ou através do notebook (`src/main_notebook.ipynb`).
 
----
-*Este material foi desenvolvido para fins acadêmicos.*
