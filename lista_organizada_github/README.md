@@ -10,7 +10,7 @@ O projeto está organizado da seguinte forma:
 | :--- | :--- |
 | `src/` | Códigos-fonte em formato `.py` e `.ipynb` (Jupyter Notebook). |
 | `results/` | Gráficos, matrizes de confusão e métricas geradas para cada questão. |
-| `docs/` | Enunciado da lista, relatório final e artigos de referência. |
+| `docs/` | Enunciado da lista, relatório final e slides. |
 | `data/` | (Opcional) Scripts ou instruções para download dos datasets utilizados. |
 
 ## 🚀 Questões Abordadas
